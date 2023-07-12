@@ -11,7 +11,10 @@ environment:
 dependencies:
   common_bloc: ^4.2.4
   extended_image: ^7.0.2
-  flusmic:
+  flusmic: 
+    git:
+      url: https://github.com/Andrea055/flusmic.git
+      path: packages/flusmic
   flutter:
     sdk: flutter
   freezed_annotation: ^2.2.0
