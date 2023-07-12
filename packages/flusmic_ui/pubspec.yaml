@@ -11,7 +11,7 @@ environment:
 dependencies:
   common_bloc: ^4.2.4
   extended_image: ^7.0.2
-  flusmic: ^4.0.0
+  flusmic:
   flutter:
     sdk: flutter
   freezed_annotation: ^2.2.0
